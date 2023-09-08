@@ -26,3 +26,7 @@ img{
 .time{
     margin-top: 20px;
 }
+
+#week, #times{
+    color: gray;
+}
